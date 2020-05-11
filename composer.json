@@ -3,7 +3,7 @@
         "psr-4": {"tasks\\": "src/"}
     },
     "require": {
-        "stephancarpin/FMPHP": "dev-master"
+        "stephancarpin/fmphp": "dev-master"
     },
     "repositories": [
         {
