@@ -2,14 +2,13 @@
     "autoload": {
         "psr-4": {"FM_Framework\\": "src/"}
     },
+    "require": {
+        "stephancarpin/FMPHP": "dev-master"
+    },
     "repositories": [
         {
             "type": "vcs",
             "url": "git@github.com:stephancarpin/FMPHP.git"
-        },
-        {
-            "type": "vcs",
-            "url": "git@bitbucket.org:rtknitsltd/rtutils.git"
         }
     ]
 }
