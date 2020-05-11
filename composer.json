@@ -1,6 +1,6 @@
 {
     "autoload": {
-        "psr-4": {"FM_Framework\\": "src/"}
+        "psr-4": {"tasks\\": "src/"}
     },
     "require": {
         "stephancarpin/FMPHP": "dev-master"
@@ -8,7 +8,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:stephancarpin/FMPHP.git"
+            "url": "git@github.com:stephancarpin/fmphp.git"
         }
     ]
 }
